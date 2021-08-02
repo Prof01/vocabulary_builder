@@ -2,7 +2,7 @@
 
 This project is Built in Vanilla JavaScript.
 
-Visit [LIVE SITE](https://github.com/facebook/create-react-app).
+Visit [LIVE SITE](https://gallant-spence-9aa82a.netlify.app/).
 
 ## How to use the App
 
